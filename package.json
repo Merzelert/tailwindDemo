@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/Merzelert/tailwindDemo/issues"
   },
-  "homepage": "https://github.com/Merzelert/tailwindDemo#readme"
+  "homepage": "https://github.com/Merzelert/tailwindDemo#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.2"
+  }
 }
