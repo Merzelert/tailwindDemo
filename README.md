@@ -1,4 +1,4 @@
-# platzi-travel
+# web-travel
 Responsive website made with Tailwind CSS, includes dark mode toggle.
 
 ## Features
@@ -10,6 +10,3 @@ Responsive website made with Tailwind CSS, includes dark mode toggle.
 - Open terminal and run `npm install` command
 - Run `npm run tw:build`
 - If you want to immediately see on the browser every change you make, run `npx tailwindcss -i ./src/css/index.css -o ./public/css/index.css --watch`
-
-
-##### *Design by team Platzi*
