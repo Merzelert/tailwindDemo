@@ -1,0 +1,24 @@
+{
+  "name": "tailwinddemo",
+  "version": "1.0.0",
+  "description": "tailwind, css, html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merzelert/tailwindDemo.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "html"
+  ],
+  "author": "Erik Retana <merzelert@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Merzelert/tailwindDemo/issues"
+  },
+  "homepage": "https://github.com/Merzelert/tailwindDemo#readme"
+}
