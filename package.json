@@ -1,33 +1,17 @@
 {
-  "name": "tailwinddemo",
+  "name": "platzi-travel",
   "version": "1.0.0",
-  "description": "tailwind, css, html",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tw:build": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch"
+    "tw:build": "tailwind -i ./src/css/index.css -o ./public/css/index.css"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Merzelert/tailwindDemo.git"
-  },
-  "keywords": [
-    "tailwind",
-    "css",
-    "html"
-  ],
-  "author": "Erik Retana <merzelert@gmail.com>",
+  "author": "Erik Retana <merzelert@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Merzelert/tailwindDemo/issues"
-  },
-  "homepage": "https://github.com/Merzelert/tailwindDemo#readme",
   "devDependencies": {
-    "autoprefixer": "^10.4.8",
-    "postcss": "^8.4.16",
-    "tailwindcss": "^3.1.8"
-  },
-  "dependencies": {
-    "@tailwindcss/forms": "^0.5.2"
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
   }
 }
